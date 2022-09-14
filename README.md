@@ -1,5 +1,5 @@
-![](https://komarev.com/ghpvc/?username=Alan-hash&color=orange)
-![](https://img.shields.io/github/followers/alan-hash?logo=github&color=orange)
+![](https://komarev.com/ghpvc/?username=Alan-hash&color=green)
+![](https://img.shields.io/github/followers/alan-hash?logo=github&color=green)
 ![](https://img.shields.io/twitter/follow/alan-hash_?color=orange&style=plastic)
 
 
