@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Alan-hash&color=green)
 ![](https://img.shields.io/github/followers/alan-hash?logo=github&color=green)
-![](https://img.shields.io/github/follow/alan-hash_?color=green&style=plastic)
+![](https://img.shields.io/linkedin/follow/alan-hash_?color=green&style=plastic)
 
 
 [![Estadísticas de GitHub de
